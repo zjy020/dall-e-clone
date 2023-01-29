@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/foreycodes/AI-MERN-Image-Generation">
-    <img src="https://www.pngmart.com/files/21/AI-PNG-Isolated-HD.png" alt="Logo" width="400" height="250">
+  <a href="https://github.com/zjy020/dall-e-clone">
+    <img src="https://www.instagram.com/p/CdgKVv_rRaS/?utm_source=ig_embed&utm_campaign=loading" alt="Logo" width="400" height="250">
   </a>
 
 <h3 align="center"></h3>
