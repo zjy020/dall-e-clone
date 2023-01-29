@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ Image](https://i.imgur.com/es6vSI1.png)
+![Image](https://github.com/zjy020/dall-e-clone/blob/master/20230130060119.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
