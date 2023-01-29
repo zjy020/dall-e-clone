@@ -59,7 +59,7 @@
 ### Live Project 
 View the project 🎉
 
-* [Netlify](https://forey-ai-mern.netlify.app/)
+* [Netlify](https://magnificent-arithmetic-ec991f.netlify.app/)
 
 
 ### Built With
