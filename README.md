@@ -10,7 +10,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/eforrester01/)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jessica-zhou-pku)
 
 
 
@@ -88,14 +88,6 @@ View the project 🎉
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Emma F. - [@foreycodes](https://twitter.com/foreycodes) - foreycodes@gmail.com
-
-Project Link: [https://github.com/foreycodes/AI-MERN-Image-Generation](https://github.com/foreycodes/AI-MERN-Image-Generation)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
