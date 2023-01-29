@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zjy020/dall-e-clone">
-    <img src="https://www.instagram.com/p/CdgKVv_rRaS/?utm_source=ig_embed&utm_campaign=loading" alt="Logo" width="400" height="250">
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…Rf2PimsrKH0Z/abD+D+IxX9Gf2y2/6a/OXFXrKysr6nHR/9k=">" alt="Logo" width="400" height="250">
   </a>
 
 <h3 align="center"></h3>
