@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zjy020/dall-e-clone">
-    <img src="https://github.com/zjy020/dall-e-clone/blob/master/20230130051907.png" alt="Logo" width="400" height="250">
+    <img src="https://github.com/zjy020/dall-e-clone/blob/master/20230130051907.png" alt="Logo" width="344" height="344">
   </a>
 
 <h3 align="center"></h3>
